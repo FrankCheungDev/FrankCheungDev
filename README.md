@@ -1,5 +1,3 @@
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrankCheungDev&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankCheungDev&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
+[![Nice to have you here](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+Nice+to+have+you+here!)](https://git.io/typing-svg)
+
+![PV](https://komarev.com/ghpvc/?username=FrankCheungDev&color=blue&style=for-the-badge)
